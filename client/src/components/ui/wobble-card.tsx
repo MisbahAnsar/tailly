@@ -15,7 +15,7 @@ export const WobbleCard = ({
   return (
     <section
       className={cn(
-        "mx-auto w-full border-2 border-pink-500  relative rounded-2xl overflow-hidden",
+        "mx-auto w-full relative rounded-2xl overflow-hidden",
         containerClassName
       )}
     >

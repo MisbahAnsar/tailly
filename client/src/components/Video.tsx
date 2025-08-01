@@ -19,7 +19,7 @@ function Video() {
             <img
                 src={faceRight} 
                 alt="faces" 
-                className="absolute right-0 top-[-150px] transform translate-x-1/3 w-32 lg:w-[400px] z-10 hidden xl:block"
+                className="absolute right-4 top-[-150px] transform translate-x-1/3 w-32 lg:w-[400px] z-10 hidden xl:block"
             />
             <div className="bg-white rounded-lg shadow-2xl border border-gray-200 overflow-hidden max-w-5xl w-full mx-4 sm:mx-10 xl:mx-4 -mt-20 lg:mt-0">
                 <div className="bg-white px-4 py-4 flex items-center border-b border-gray-200">

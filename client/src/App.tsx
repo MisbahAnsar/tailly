@@ -1,3 +1,4 @@
+import FormsInfo from './components/FormsInfo'
 import Grid from './components/Grid'
 import { Hero7 } from './components/modern-hero'
 import Navbar from './components/Navbar'
@@ -12,6 +13,7 @@ function App() {
       <Hero7 />
       <Video />
       <Grid />
+      <FormsInfo />
     </div>
   )
 }
